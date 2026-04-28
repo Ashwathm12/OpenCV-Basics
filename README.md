@@ -1,7 +1,6 @@
 # EX:1 Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 ### Name: Ashwath M
 ### Register number: 212223230023
-### Date: 20.04.2026
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
